@@ -1,0 +1,19 @@
+{
+  "name": "vue-drag-drop-question",
+  "version": "1.0.0",
+  "description": "Take home vue drag and drop question for interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Modumate/vue-drag-drop-question.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Modumate/vue-drag-drop-question/issues"
+  },
+  "homepage": "https://github.com/Modumate/vue-drag-drop-question#readme"
+}
